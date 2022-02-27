@@ -1,0 +1,23 @@
+desktop,,,,,,mobile,,,,,,
+Header,Chrome,Edge,Firefox,Internet Explorer,Opera,Safari,WebView Android,Chrome Android,Firefox for Android,Opera Android,Safari on iOS,Samsung Internet
+CSSStyleSheet,Full support1,Full support12,Full support1,Full support9,Full support12.1,Full support1,Full support1,Full support18,Full support4,Full support12.1,Full support1,Full support1.0
+CSSStyleSheet() constructor,Full support73,Full support79,Full support73,No supportNo,Full support53,No supportNo,Full support73,Full support73,No supportNo,Full support47,No supportNo,Full support9.0
+,,,disabledfootnote,,,,,,,,,
+,,,Open,,,,,,,,,
+addRule(),Full support1,Full support12,Full support68,Full support9,Full support15,Full support1,Full support1,Full support18,Full support68,Full support14,Full support1,Full support1.0
+Deprecated,,,,,,,,,,,,
+cssRules,Full support1,Full support12,Full support1,Full support9,Full support12.1,Full support1,Full support1,Full support18,Full support4,Full support12.1,Full support1,Full support1.0
+deleteRule(),Full support1,Full support12,Full support1,Full support9,Full support12.1,Full support1,Full support1,Full support18,Full support4,Full support12.1,Full support1,Full support1.0
+insertRule(),Full support1,Full support12,Full support1,Full support9,Full support12.1,Full support1,Full support1,Full support18,Full support4,Full support12.1,Full support1,Full support1.0
+index parameter is optional,Full support1,Full support12,Full support55,No supportNo,Full support15,Full support1,Full support1,Full support18,Full support55,Full support14,Full support1,Full support1.0
+ownerRule,Full support1,Full support12,Full support1,Full support9,Full support12.1,Full support1,Full support1,Full support18,Full support4,Full support12.1,Full support1,Full support1.0
+removeRule(),Full support1,Full support12,Full support68,Full support9,Full support15,Full support3,Full support1,Full support18,Full support68,Full support14,Full support1,Full support1.0
+Deprecated,,,,,,,,,,,,
+replace,Full support73,Full support79,Full support75,No supportNo,Full support60,No supportNo,Full support73,Full support73,No supportNo,Full support52,No supportNo,Full support11.0
+,,,disabledfootnote,,,,,,,,,
+,,,Open,,,,,,,,,
+replaceSync,Full support73,Full support79,Full support75,No supportNo,Full support60,No supportNo,Full support73,Full support73,No supportNo,Full support52,No supportNo,Full support11.0
+,,,disabledfootnote,,,,,,,,,
+,,,Open,,,,,,,,,
+rules,Full support1,Full support12,Full support68,Full support9,Full support15,Full support1,Full support1,Full support18,Full support68,Full support14,Full support1,Full support1.0
+Deprecated,,,,,,,,,,,,
